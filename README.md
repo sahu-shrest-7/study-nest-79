@@ -4,7 +4,7 @@ A real-time web app where students create virtual study rooms,
 track study sessions, and collaborate via live chat.
 
 ## 🌐 Live Demo
-**https://study-nest-79.vercel.app**
+https://lucky-meringue-0a1c7a.netlify.app
 
 ## ✨ Features
 - ✅ Authentication — Email/password signup and login
