@@ -23,7 +23,7 @@ https://lucky-meringue-0a1c7a.netlify.app
 | Database | PostgreSQL via Supabase |
 | Authentication | Supabase Auth |
 | Real-time | Supabase Realtime |
-| Deployment | Vercel |
+| Deployment | Netlify |
 
 ## 🚀 Setup Instructions
 1. Clone: `git clone https://github.com/sahu-shrest-7/study-nest-79`
